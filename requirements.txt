@@ -1,2 +1,2 @@
 peewee==3.10.0
-django==1.11.24
+django==2.2.24
